@@ -7,6 +7,7 @@
 //
 
 #import "PhotoPickerPlus.h"
+#import "GetChute.h"
 
 #define ADD_SERVICES_ARRAY_NAMES [NSArray arrayWithObjects:@"Facebook", @"Instagram", @"Flickr", @"Picasa", nil]
 #define ADD_SERVICES_ARRAY_LINKS [NSArray arrayWithObjects:@"facebook", @"instagram", @"flickr", @"google", nil]

@@ -1,0 +1,3 @@
+[submodule "Chute-SDK"]
+	path = Chute-SDK
+	url = git://github.com/chute/Chute-SDK.git

@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "GetChute.h"
+#import "GCUIBaseViewController.h"
 
 enum {
     PhotoPickerPlusSourceTypeNone,
